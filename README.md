@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1091765843450413167/French-DBM.png" width="350" title="hover text">
+  <img src="https://developer.mozilla.org/en-US/docs/Glossary/MVC/model-view-controller-light-blue.png" width="350" title="hover text">
 </p>
 
 <p align="center">
