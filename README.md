@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://developer.mozilla.org/en-US/docs/Glossary/MVC/model-view-controller-light-blue.png" width="350" title="hover text">
+  <img src="https://learn.microsoft.com/fr-fr/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview/_static/image1.jpg" width="350" title="hover text">
 </p>
 
 <h1 align="center">Modèle MVC</h1>
