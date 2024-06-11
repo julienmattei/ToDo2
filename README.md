@@ -5,7 +5,10 @@
 <h1 align="center">Modèle MVC</h1>
 
 ```md
-- Modèle MVC
+- Fermez les yeux
+- Con centrez-vous !
+- Lancez vsCODE
+- OBEISSEZ !!!
 ```
 
 
