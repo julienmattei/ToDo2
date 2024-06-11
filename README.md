@@ -2,34 +2,11 @@
   <img src="https://developer.mozilla.org/en-US/docs/Glossary/MVC/model-view-controller-light-blue.png" width="350" title="hover text">
 </p>
 
-<p align="center">
-<a href="https://discord.gg/dHJ776Nndf" rel="nofollow">DBM-MODS/FRANCE</a> est une communauté open source dédiée à la modification, l'extension et l'amélioration de <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
-</p>
-
-<h1 align="center">Description</h1>
-
-<p align="center">Theme complètement personnalisable pour Discord Bot Maker V2.0 traduit en français</p>
-
-<p align="center">
-  <a href="https://github.com/TheKingOfCampers/DBM-BUILDER-FRENCH/archive/refs/heads/main.zip"</a>
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092091889970319511/Download-Button.png" width="200">
-</p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
-</p>
-
-<h1 align="center">Installation</h1>
-
 ```md
-- Fermez Discord Bot Maker
-- Déposez le dossier Resources ici -> "Steam\steamapps\common\Discord Bot Maker"
-- Relancez Discord Bot Maker
+- Modèle MVC
 ```
+
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
 </p>
