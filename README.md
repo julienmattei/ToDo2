@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="50" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" width="50" title="hover text">
 </p>
 
 <h1 align="center">Screenshots</h1>
