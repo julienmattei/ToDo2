@@ -14,7 +14,6 @@
 </p>
 
 <h1 align="center">Screenshots</h1>
-<span align="center">![Screen0](Screenshots/04.png)</span>
 
 ![Screen0](Screenshots/04.png)
 
