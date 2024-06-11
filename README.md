@@ -26,3 +26,12 @@ le modèle, la vue et le contrôleur ayant chacun un rôle précis dans l'interf
 ![Screen2](Screenshots/03.png)
 
 ---
+
+<h1 align="center">License</h1>
+<p align="center">Open Source</p>
+
+<h1 align="center">Credits</h1>
+<p align="center">Créez avec: <a href="https://www.lapasserelle.school/" rel="nofollow">La Passerelle 🌉</a></p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/icons/793135414746939432/a3a04d0e89064411188aa6439a3da86e.webp?size=600" width="200" title="hover text">
+</p>
