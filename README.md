@@ -5,10 +5,9 @@
 <h1 align="center">Modèle MVC</h1>
 
 ```md
-- Fermez les yeux
-- Con centrez-vous !
-- Lancez vsCODE
-- OBEISSEZ !!!
+L'architecture Modèle/Vue/Contrôleur (MVC) est une façon d'organiser une interface graphique d'un programme.
+Elle consiste à distinguer trois entités distinctes qui sont:
+le modèle, la vue et le contrôleur ayant chacun un rôle précis dans l'interface.
 ```
 
 
