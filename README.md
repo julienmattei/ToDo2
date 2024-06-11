@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+  <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="50" title="hover text">
 </p>
 
 <h1 align="center">Screenshots</h1>
